@@ -16,6 +16,10 @@ public class HelloFX extends Application {
 
         //addOneLine
         stage.show();
+        
+        //addTwoLine
+        stage.show();
+        stage.show();
     }
     public static void main(String[] args) {
         launch();
